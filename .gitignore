@@ -1,6 +1,9 @@
 # Environment variables (contains sensitive API credentials)
 .env
 
+# Claude Code settings (keep local)
+.claude/
+
 # CSV export files (large and may contain sensitive data)
 *.csv
 
